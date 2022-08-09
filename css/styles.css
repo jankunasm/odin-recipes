@@ -17,6 +17,11 @@
     color: black;
 }
 
+.odin {
+    width: 200px;
+    margin-left: 46%;
+}
+
 /* Recipe Images */
 
 .kugelis-img {
@@ -90,4 +95,5 @@
 
 .landing-page {
     text-align: center;
+    color: chocolate;
 }
