@@ -1,0 +1,93 @@
+/* Home Page CSS */
+
+.header {
+    font-size: 70px;
+    font-weight: 800;
+    text-align: center;
+    color: chocolate;
+    font-family: Garamond, serif;
+}
+
+.recipes-header {
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+    list-style-position: inside;
+    font-family: Garamond, serif;
+    color: black;
+}
+
+/* Recipe Images */
+
+.kugelis-img {
+    width: 625px;
+    height: auto;
+    margin-left: 38%;
+}
+
+.butter-chicken-img {
+    width: 775px;
+    height: auto;
+    margin-left: 35%;
+}
+
+.gnocchi-img {
+    width: 440px;
+    height: auto;
+    margin-left: 42%;
+}
+
+
+/* Recipe Pages CSS */
+
+.kg-header,
+.bt-header,
+.gn-header {
+    text-align: center;
+    color: chocolate;
+}
+
+.kg-desc,
+.bt-desc,
+.gn-desc {
+    text-align: center;
+    color: chocolate;
+}
+
+.kg-desc-content,
+.bt-desc-content,
+.gn-desc-content {
+    text-align: center;
+}
+
+.kg-ingr,
+.bt-ingr,
+.gn-ingr {
+    text-align: center;
+    color: chocolate;
+}
+
+.kg-ingr-content,
+.bt-ingr-content,
+.gn-ingr-content {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.kg-inst,
+.bt-inst,
+.gn-inst {
+    text-align: center;
+    color: chocolate;
+}
+
+.kg-inst-content,
+.bt-inst-content,
+.gn-inst-content {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.landing-page {
+    text-align: center;
+}
