@@ -1,5 +1,9 @@
 /* Home Page CSS */
 
+body {
+    background-color: burlywood;
+}
+
 .header {
     font-size: 70px;
     font-weight: 800;
